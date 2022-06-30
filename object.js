@@ -29,3 +29,7 @@ let salaries = {
     sum +=  salaries[key]
   }
   console.log(sum)
+  //-------------------
+  function multiplyNumeric(obj){
+      
+  }
